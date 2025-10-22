@@ -29,5 +29,6 @@ Data Structure: ArrayList
 ▪️CRUD operations in Java
 
 ## 🧑‍💻 Author 
-Junaid Rana
-Gmail-{junaidrana1282005@gmail.com}
+▪️Junaid Rana
+
+▪️Gmail-{junaidrana1282005@gmail.com}
