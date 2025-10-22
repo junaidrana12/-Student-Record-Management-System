@@ -27,5 +27,7 @@ Data Structure: ArrayList
 ▪️Loops and Conditional statements
 ▪️User Input handling (Scanner)
 ▪️CRUD operations in Java
-##🧑‍💻 Author 
+
+## 🧑‍💻 Author 
 Junaid Rana
+Gmail-{junaidrana1282005@gmail.com}
