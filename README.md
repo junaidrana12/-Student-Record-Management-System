@@ -15,9 +15,9 @@ This project demonstrates the use  of Object-Oriented Programming (OOP) concepts
 ✅ Menu-driven console interface
 
 ## Technologies Used
-Language: Java (JDK 8 or above)
-IDE: IntelliJ IDEA Community Edition
-Data Structure: ArrayList
+▪️Language: Java (JDK 8 or above)
+▪️IDE: IntelliJ IDEA Community Edition
+▪️Data Structure: ArrayList
 
 ## Concepts Covered
 
@@ -31,3 +31,4 @@ Data Structure: ArrayList
 ## 🧑‍💻 Author 
 ▪️Junaid Rana
 ▪️Gmail-{junaidrana1282005@gmail.com}
+▪️GitHub-[https://github.com/junaidrana12]
