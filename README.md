@@ -1,11 +1,11 @@
-# -Student-Record-Management-System
+# Student-Record-Management-System
 it's an amazing Experience for me in elevate lab and this is Task 2 Student Record Management System
 
-## 🎓 Student Record Management System
+## 🎓Student Record Management System
 A  simple  CLI-based CRUD (Create,Read, Update,Delete) application built in  Java to manage student records efficiently.
 This project demonstrates the use  of Object-Oriented Programming (OOP) concepts,  collections (ArrayList), and console-based interaction.
 
-## 📋 Features
+## Features
 
 ✅ Add new student records
 ✅ View all student records
@@ -14,12 +14,12 @@ This project demonstrates the use  of Object-Oriented Programming (OOP) concepts
 ✅ Display records in a tabular format
 ✅ Menu-driven console interface
 
-## 🧰 Technologies Used
+## Technologies Used
 Language: Java (JDK 8 or above)
 IDE: IntelliJ IDEA Community Edition
 Data Structure: ArrayList
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 ▪️Classes and Objects
 ▪️Encapsulation
@@ -30,5 +30,4 @@ Data Structure: ArrayList
 
 ## 🧑‍💻 Author 
 ▪️Junaid Rana
-
 ▪️Gmail-{junaidrana1282005@gmail.com}
